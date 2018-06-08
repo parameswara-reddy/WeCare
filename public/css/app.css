@@ -1,0 +1,16 @@
+@import url(https://fonts.googleapis.com/css?family=Raleway:300,400,600);@import url(//cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.2.12/semantic.min.css);.navbar-laravel {
+  background-color: #fff;
+  -webkit-box-shadow: 0 2px 4px rgba(0, 0, 0, 0.04);
+          box-shadow: 0 2px 4px rgba(0, 0, 0, 0.04);
+}
+
+body > div,
+body > div > div,
+body > div > div > div.login-form {
+  height: 100%;
+}
+
+.primary {
+  color: #0514aa;
+}
+
